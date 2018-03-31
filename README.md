@@ -1,6 +1,6 @@
 # CS5661-SF-Crime-Project
 
-- Project description (1 paragraph)
+### Project description (1 paragraph)
 This project is to develop an analytical model which predicts the category of the crime incident which Happened in San Francisco between 2003 to 2015.
 
 
