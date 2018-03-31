@@ -1,5 +1,9 @@
 # CS5661-SF-Crime-Project
 
+### Project title
+San Francisco Crime Classification 
+
+
 ### Project description
 This project is to develop an analytical model which predicts the category of the crime incident which Happened in San Francisco between 2003 to 2015.
 
